@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kuttoh
-- 👀 I’m interested in Sofware Engineering
+- 👀 I’m interested in Sofware Engineering & Product Management
 - 🌱 I’m currently learning Python, Containerization, Microservices and Load Balancing
 - 💞️ I’m looking to collaborate on payment systems and projects that have an impact on today's society
 - 📫 How to reach me kuttohisaac@gmail.com
