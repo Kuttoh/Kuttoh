@@ -1,9 +1,6 @@
 # ISAAC KIPNG’ENO  
 
-**Email:** [kuttohisaac@gmail.com](mailto:kuttohisaac@gmail.com) |  
-**Phone:** +254 718 897 157 |  
-**Location:** Nairobi, Kenya |  
-**GitHub:** [github.com/kuttoh](https://github.com/kuttoh)  
+**Email:** [kuttohisaac@gmail.com](mailto:kuttohisaac@gmail.com) | **Location:** Nairobi, Kenya | **GitHub:** [github.com/kuttoh](https://github.com/kuttoh)
 
 ---
 
