@@ -40,17 +40,13 @@ Experienced software engineer with 6 years of experience working on Laravel and 
 - Facilitated sprint planning, backlog refinement, and review sessions to maximise team productivity.  
 - Gathered requirements and wrote extensive documentation that translated client and business requirements into actionable user stories with clear acceptance criteria.  
 - Created user manuals and trained users of internal systems, halving bug reports by increasing user awareness of system features.  
-- Conducted market research that informed improvements on various internal systems and client applications.  
-
-### Intern Data Analyst — Infotrak Research & Consulting, Nairobi  
-**Sept 2015 – Nov 2015**  
-- Learnt data collection, analysis, and presentation using tools such as MS Excel, SPSS & MS PowerPoint.  
+- Conducted market research that informed improvements on various internal systems and client applications.
 
 ---
 
 ## SKILLS  
 
-- **Back-end:** PHP (Laravel, WordPress CMS)  
+- **Back-end:** PHP (Laravel, Symfony)  
 - **Front-end:** JavaScript (Vue.js, Alpine.js, Inertia.js), Livewire, HTML5, CSS (Tailwind, Bootstrap)  
 - **Databases:** MySQL, PostgreSQL  
 - **Servers:** Linux, Nginx (LEMP stack)  
